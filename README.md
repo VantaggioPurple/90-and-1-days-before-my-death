@@ -6,16 +6,16 @@ In this repository all the public documents of the game are contained or: the EU
 
 ## 📄 EULA
 
-The file `Licenza AkenayoStudio.pdf` includes the **official bilingual license** (Italian and English).  
+The file `End-User License Agreement (EULA) - 90 and 1 days before my death.pdf` includes the **official EULA on English**.  
 It outlines the conditions for using the studio's content, publishing rules for social media, personal data processing (in compliance with GDPR), and applicable legal clauses.
 
-📥 Download the license: [License AkenayōStudio.pdf](License%20AkenayōStudio.pdf)
+📥 Download the license: [License End-User License Agreement (EULA) - 90 and 1 days before my death.pdf](%20License%20Agreement%20(EULA)%20-%2090%20and%201%20days%20before%20my%20death.pdf)
 
 ===
 
 ## ℹ️ General Information
 
-- **Issued on**: 30/04/2025  
+- **Issued on**: 01/09/2025
 - **Jurisdiction**: Italy (EU)  
 - **License type**: Proprietary – All rights reserved
 
@@ -23,7 +23,7 @@ It outlines the conditions for using the studio's content, publishing rules for 
 
 ## 📬 Contact
 
-- Email: vantaggiopurple@gmail.com  
+- Email: support@akenayo.com
 - Discord: (coming soon)
 
 ===
@@ -33,13 +33,5 @@ It outlines the conditions for using the studio's content, publishing rules for 
 Any updates to this license will be published in this repository and will take effect **15 days after publication**.  
 New clauses will be marked with an asterisk `(*)`.
 
-===
 
-## ⚖️ Disclaimer
-
-By using any AkenayōStudio content, you accept the terms of this license.  
-The Italian version is considered the official legal version. The English version is provided for informational purposes only.
-
-===
-
-Copyright © 2025 AkenayōStudio / 【アケナヨスタジオ】. All rights reserved.
+Copyright © 2025 90 and 1 days before my death. All rights reserved.
