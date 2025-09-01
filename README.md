@@ -10,6 +10,7 @@ The file `End-User License Agreement (EULA) - 90 and 1 days before my death.pdf`
 It outlines the conditions for using the studio's content, publishing rules for social media, personal data processing (in compliance with GDPR), and applicable legal clauses.
 
 📥 Download the license ENG: [License End-User License Agreement (EULA) - 90 and 1 days before my death.pdf](/End-User%20License%20Agreement%20(EULA)%20-%2090%20and%201%20days%20before%20my%20death.pdf)
+
 📥 Download the license ITA: [License End-User License Agreement (EULA) - 90 and 1 days before my death.pdf](Contratto%20di%20Licenza%20per%20l'Utente%20Finale%20(EULA)%20-%2090%20and%201%20days%20before%20my%20death.pdf)
 
 ===
